@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1517557271 source:c:\users\wboler\projects\leakyneuron\leakyneuron.cpp
+	"LeakyNeuron.hpp"
+
+1517556405 c:\users\wboler\projects\leakyneuron\leakyneuron.hpp
+	"Neuron.hpp"
+	<cmath>
+
+1517556459 c:\users\wboler\projects\leakyneuron\neuron.hpp
+	<iostream>
+	<vector>
+	<cinttypes>
+	<stdexcept>
+
+1517557807 source:c:\users\wboler\projects\leakyneuron\main.cpp
+	"LeakyNeuron.hpp"
+
+1517555420 source:c:\users\wboler\projects\leakyneuron\neuron.cpp
+	"Neuron.hpp"
+
